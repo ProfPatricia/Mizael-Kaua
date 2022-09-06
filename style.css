@@ -1,0 +1,48 @@
+body {
+  background-image: url('https://img.freepik.com/vetores-gratis/vetor-de-fundo-preto-de-texturas-de-onda_53876-60285.jpg?w=2000');
+}
+.LojaL1	{
+background-color: yellow;
+color: white;
+border: 2px white;
+margin: 10px;
+padding: 10px;
+font-size: 200%;
+
+font-family: Helvetica;
+    color: #FFF;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+}
+ #Neymar {
+background-color: white;
+color: white;
+border: 2px white;
+margin: 10px;
+padding: 10px;
+font-size: 200%;
+
+
+font-family: Helvetica;
+    color: #FFF;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+
+}
+ .Ftneymar {
+  background-color: darkcyan;
+  color: white;
+border: 2px white;
+margin: 10px;
+padding: 20px;
+font-size: 200%;
+ }
+ #criss {
+  background-color: yellow;
+  color: white;
+border: 2px white;
+margin: 10px;
+padding: 10px;
+font-size: 200%;
+
+ }
